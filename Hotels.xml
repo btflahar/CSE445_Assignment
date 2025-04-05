@@ -4,7 +4,7 @@
 	<Hotel id="H1" optionalAttribute="example">
 		<Name>Hotel One</Name>
 		<Phone>233-456-9999</Phone>
-		<Address NearestAirport="Los Angeles Airport">
+		<Address NearstAirport="Los Angeles Airport">
 			<Number>11100</Number>
 			<Street>Main</Street>
 			<City>Mesa</City>
