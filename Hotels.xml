@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+	<Hotel id="H1" optionalAttribute="example">
+		<Name>Hotel One</Name>
+		<Phone>233-456-9999</Phone>
+		<Address NearestAirport="Los Angeles Airport">
+			<Number>11100</Number>
+			<Street>Main</Street>
+			<City>Mesa</City>
+			<State>ST</State>
+			<Zip>85215</Zip>
+		</Address>
+		<Rating>4.0</Rating>
+	</Hotel>
+	<Hotel id="H2">
+		<Name>Hotel Two</Name>
+		<Phone>234-567-8901</Phone>
+		<Phone>345-678-9012</Phone>
+		<Address>
+			<Number>89</Number>
+			<Street>Second Street</Street>
+			<City>CityTwo</City>
+			<State>ST</State>
+			<Zip>23456</Zip>
+		</Address>
+		<Rating>2.1</Rating>
+	</Hotel>
+	<Hotel id="H3">
+		<Name>Hotel Jorge</Name>
+		<Phone>444-447-8001</Phone>
+		<Phone>555-678-0012</Phone>
+		<Address>
+			<Number>20</Number>
+			<Street>Park Place</Street>
+			<City>City Smitty</City>
+			<State>TX</State>
+			<Zip>46544</Zip>
+		</Address>
+		<Rating>1.9</Rating>
+	</Hotel>
+	<Hotel id="H4">
+		<Name>Hotel Fourteen</Name>
+		<Phone>342-262-2201</Phone>
+		<Phone>555-668-6772</Phone>
+		<Address>
+			<Number>5</Number>
+			<Street>Place Street</Street>
+			<City>City Eleven</City>
+			<State>SL</State>
+			<Zip>23233</Zip>
+		</Address>
+		<Rating>3.0</Rating>
+	</Hotel>
+	<Hotel id="H5">
+		<Name>Hotel Hotel</Name>
+		<Phone>244-117-9991</Phone>
+		<Phone>345-678-9012</Phone>
+		<Address>
+			<Number>200</Number>
+			<Street>Second Street</Street>
+			<City>Kansas City</City>
+			<State>KA</State>
+			<Zip>23333</Zip>
+		</Address>
+		<Rating>2.2</Rating>
+	</Hotel>
+	<Hotel id="H6">
+		<Name>Hotel Soap</Name>
+		<Phone>343-567-0000</Phone>
+		<Phone>455-618-9121</Phone>
+		<Address>
+			<Number>900</Number>
+			<Street>6th Drive</Street>
+			<City>City</City>
+			<State>FL</State>
+			<Zip>23561</Zip>
+		</Address>
+		<Rating>4.8</Rating>
+	</Hotel>
+	<Hotel id="H7">
+		<Name>Hotel Seven</Name>
+		<Phone>763-777-8901</Phone>
+		<Phone>123-123-9012</Phone>
+		<Address>
+			<Number>1200</Number>
+			<Street>Boulevard Street</Street>
+			<City>Alabama</City>
+			<State>Al</State>
+			<Zip>33456</Zip>
+		</Address>
+		<Rating>3.3</Rating>
+	</Hotel>
+	<Hotel id="H8">
+		<Name>Hotel 8</Name>
+		<Phone>888-888-8888</Phone>
+		<Phone>345-678-8888</Phone>
+		<Address>
+			<Number>888</Number>
+			<Street>Eighth Street</Street>
+			<City>City 8</City>
+			<State>8State</State>
+			<Zip>88888</Zip>
+		</Address>
+		<Rating>1.88</Rating>
+	</Hotel>
+	<Hotel id="H9">
+		<Name>Hotel Neign</Name>
+		<Phone>111-567-8901</Phone>
+		<Phone>345-678-1111</Phone>
+		<Address>
+			<Number>211</Number>
+			<Street>Second from the Left Street</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>85666</Zip>
+		</Address>
+		<Rating>1.2</Rating>
+	</Hotel>
+	<Hotel id="H10">
+		<Name>Hotel Ten!!!</Name>
+		<Phone>134-567-8901</Phone>
+		<Phone>145-575-9555</Phone>
+		<Address>
+			<Number>300</Number>
+			<Street>Second Stree</Street>
+			<City>Chandler</City>
+			<State>AZ</State>
+			<Zip>11111</Zip>
+		</Address>
+		<Rating>5.0</Rating>
+	</Hotel>
+</Hotels>

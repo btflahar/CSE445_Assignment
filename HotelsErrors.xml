@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="Hotels.xsd">
+	<Hotel optionalAttribute="example">
+		<Name>Hotel One</Name>
+		<Name>Duplicate Name</Name>
+		<Phone>123-456-7890</Phone>
+		<Address NearestAirport="XYZ">
+			<Number>100</Number>
+			<Street>Main Street</Street>
+			<City>CityOne</City>
+			<State>ST</State>
+			<Zip>12345</Zip>
+			<Rating>4.2</Rating>
+		</Hotel>
+	<Hotel id="H2">
+		<Name>Hotel Two</Name>
+		<Address>
+			<Number>200</Number>
+			<Street>Second Street</Street>
+			<City>CityTwo</City>
+			<State>ST</State>
+			<Zip>23456</Zip>
+		</Address>
+		<Rating>3.8</Rating>
+	</Hotel>
+</Hotel>
